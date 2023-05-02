@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "chefName": "Alice Smith",
+    "chefPicture": "https://fakechefpics.com/alicesmith.jpg",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 56,
+    "description": "Alice is a master of fusion cuisine, blending flavors from around the world into delicious, innovative dishes.",
+    "recipeName": "Spicy Tuna Sushi Burrito",
+    "ingredients": ["tuna", "avocado", "cucumber", "sriracha", "sushi rice", "nori"],
+    "methodOfCooking": "Roll the ingredients in a sheet of nori, then wrap the roll in sushi rice. Serve with soy sauce and wasabi."
+  },
+  {
+    "id": 2,
+    "chefName": "Bob Johnson",
+    "chefPicture": "https://fakechefpics.com/bobjohnson.jpg",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 78,
+    "description": "Bob is a BBQ pitmaster who knows how to bring out the best flavors in meat with his secret rubs and sauces.",
+    "recipeName": "Smoked Brisket with Bourbon Glaze",
+    "ingredients": ["brisket", "bourbon", "brown sugar", "paprika", "garlic powder", "onion powder"],
+    "methodOfCooking": "Rub the brisket with a mix of spices and let it smoke for several hours. Brush with a bourbon glaze for the last hour of cooking."
+  },
+  {
+    "id": 3,
+    "chefName": "Claire Davis",
+    "chefPicture": "https://fakechefpics.com/clairedavis.jpg",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 36,
+    "description": "Claire's baking skills are legendary, and her pastries are always a hit at the local farmers' market.",
+    "recipeName": "Blueberry Cheesecake Bars",
+    "ingredients": ["cream cheese", "butter", "sugar", "vanilla extract", "flour", "blueberries"],
+    "methodOfCooking": "Mix the cream cheese, butter, sugar, and vanilla extract, then add the flour and blueberries. Bake in a square pan and cut into bars."
+  },
+  {
+    "id": 4,
+    "chefName": "David Lee",
+    "chefPicture": "https://fakechefpics.com/davidlee.jpg",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 112,
+    "description": "David's family has been running a Chinese restaurant for generations, and he has inherited their secret recipes and techniques.",
+    "recipeName": "General Tso's Chicken",
+    "ingredients": ["chicken thighs", "cornstarch", "soy sauce", "rice vinegar", "sugar", "ginger", "garlic"],
+    "methodOfCooking": "Coat the chicken in cornstarch and fry until crispy. Mix soy sauce, rice vinegar, sugar, ginger, and garlic to make a sauce, then toss the chicken in the sauce."
+  },
+  {
+    "id": 5,
+    "chefName": "Elena Rodriguez",
+    "chefPicture": "https://fakechefpics.com/elenarodriguez.jpg",
+    "yearsOfExperience": 3,
+    "numberOfRecipes": 24,
+    "description": "Elena is a vegan chef who loves to experiment with plant-based ingredients.",
+    "recipeName": "Blueberry Cheesecake Bars",
+    "ingredients": ["cream cheese", "butter", "sugar", "vanilla extract", "flour", "blueberries"],
+    "methodOfCooking": "Mix the cream cheese, butter, sugar, and vanilla extract, then add the flour and blueberries. Bake in a square pan and cut into bars."
+  },
+{
+    "id": 6,
+    "chefName": "Mega Oval",
+    "chefPicture": "https://fakechefpics.com/clairedavis.jpg",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 36,
+    "description": "Claire's baking skills are legendary, and her pastries are always a hit at the local farmers' market.",
+    "recipeName": "Blueberry Cheesecake Bars",
+    "ingredients": ["cream cheese", "butter", "sugar", "vanilla extract", "flour", "blueberries"],
+    "methodOfCooking": "Mix the cream cheese, butter, sugar, and vanilla extract, then add the flour and blueberries. Bake in a square pan and cut into bars."
+  }
+]	
