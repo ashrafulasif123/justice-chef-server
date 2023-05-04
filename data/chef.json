@@ -6,9 +6,84 @@
     "yearsOfExperience": 8,
     "numberOfRecipes": 56,
     "description": "Alice is a master of fusion cuisine, blending flavors from around the world into delicious, innovative dishes.",
-    "recipeName": ["Fried Rice", "Chesse", "sup with chicken" ],
-    "ingredients": ["tuna", "avocado", "cucumber", "sriracha", "sushi rice", "nori"],
-    "methodOfCooking": "Roll the ingredients in a sheet of nori, then wrap the roll in sushi rice. Serve with soy sauce and wasabi."
+    "recipeName": [
+      {
+        "name": "Jatoto shim",
+        "ingredients": [
+          "2 boneless chicken breasts",
+          "2 tablespoons olive oil",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "4 cups mixed greens",
+          "1/2 cup cherry tomatoes, halved",
+          "1/2 cup cucumber, sliced",
+          "1/4 cup red onion, sliced",
+          "1/4 cup crumbled feta cheese",
+          "1/4 cup sliced almonds",
+          "1/4 cup balsamic vinaigrette"
+        ],
+        "method": [
+          "Preheat grill to medium-high heat.",
+          "In a small bowl, combine olive oil, garlic powder, salt, and black pepper. Brush mixture over chicken breasts.",
+          "Grill chicken for 6-8 minutes per side, or until cooked through.",
+          "In a large bowl, combine mixed greens, cherry tomatoes, cucumber, and red onion.",
+          "Slice chicken and add to the salad.",
+          "Top with crumbled feta cheese and sliced almonds.",
+          "Drizzle balsamic vinaigrette over the top and serve immediately."
+        ],
+        "img": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      },
+      {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 pound spaghetti",
+          "6 slices bacon, diced",
+          "4 cloves garlic, minced",
+          "4 eggs",
+          "1 cup grated parmesan cheese",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "method": [
+          "Bring a large pot of salted water to a boil. Add spaghetti and cook until al dente, according to package instructions.",
+          "While spaghetti cooks, cook bacon in a large skillet over medium heat until crisp. Remove bacon from skillet and set aside.",
+          "Add garlic to skillet with bacon grease and cook until fragrant, about 1 minute."
+          
+        
+        ],
+        "img": "https://images.unsplash.com/photo-1485921325833-c519f76c4927?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+      },
+      {
+        "name": "Hot Jata",
+        "ingredients": [
+          "2 boneless chicken breasts",
+          "2 tablespoons olive oil",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "4 cups mixed greens",
+          "1/2 cup cherry tomatoes, halved",
+          "1/2 cup cucumber, sliced",
+          "1/4 cup red onion, sliced",
+          "1/4 cup crumbled feta cheese",
+          "1/4 cup sliced almonds",
+          "1/4 cup balsamic vinaigrette"
+        ],
+        "method": [
+          "Preheat grill to medium-high heat.",
+          "In a small bowl, combine olive oil, garlic powder, salt, and black pepper. Brush mixture over chicken breasts.",
+          "Grill chicken for 6-8 minutes per side, or until cooked through.",
+          "In a large bowl, combine mixed greens, cherry tomatoes, cucumber, and red onion.",
+          "Slice chicken and add to the salad.",
+          "Top with crumbled feta cheese and sliced almonds.",
+          "Drizzle balsamic vinaigrette over the top and serve immediately."
+        ],
+        "img": "https://images.unsplash.com/photo-1623691752472-a6d33855e5de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      }
+    ]
+    
   },
   {
     "id": 2,
@@ -17,9 +92,83 @@
     "yearsOfExperience": 12,
     "numberOfRecipes": 78,
     "description": "Bob is a BBQ pitmaster who knows how to bring out the best flavors in meat with his secret rubs and sauces.",
-    "recipeName": ["Smoked Brisket with Bourbon Glaze", "biskut banana", "burger" ],
-    "ingredients": ["brisket", "bourbon", "brown sugar", "paprika", "garlic powder", "onion powder"],
-    "methodOfCooking": "Rub the brisket with a mix of spices and let it smoke for several hours. Brush with a bourbon glaze for the last hour of cooking."
+    "recipeName": [
+      {
+        "name": "Chamaroon Bot",
+        "ingredients": [
+          "2 boneless chicken breasts",
+          "2 tablespoons olive oil",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "4 cups mixed greens",
+          "1/2 cup cherry tomatoes, halved",
+          "1/2 cup cucumber, sliced",
+          "1/4 cup red onion, sliced",
+          "1/4 cup crumbled feta cheese",
+          "1/4 cup sliced almonds",
+          "1/4 cup balsamic vinaigrette"
+        ],
+        "method": [
+          "Preheat grill to medium-high heat.",
+          "In a small bowl, combine olive oil, garlic powder, salt, and black pepper. Brush mixture over chicken breasts.",
+          "Grill chicken for 6-8 minutes per side, or until cooked through.",
+          "In a large bowl, combine mixed greens, cherry tomatoes, cucumber, and red onion.",
+          "Slice chicken and add to the salad.",
+          "Top with crumbled feta cheese and sliced almonds.",
+          "Drizzle balsamic vinaigrette over the top and serve immediately."
+        ],
+        "img": "https://images.unsplash.com/photo-1624462966581-bc6d768cbce5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      },
+      {
+        "name": "Soto Mima",
+        "ingredients": [
+          "1 pound spaghetti",
+          "6 slices bacon, diced",
+          "4 cloves garlic, minced",
+          "4 eggs",
+          "1 cup grated parmesan cheese",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "method": [
+          "Bring a large pot of salted water to a boil. Add spaghetti and cook until al dente, according to package instructions.",
+          "While spaghetti cooks, cook bacon in a large skillet over medium heat until crisp. Remove bacon from skillet and set aside.",
+          "Add garlic to skillet with bacon grease and cook until fragrant, about 1 minute."
+          
+        ],
+        "img": "https://images.unsplash.com/photo-1556761223-4c4282c73f77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
+      },
+      {
+        "name": "Yellow Jab",
+        "ingredients": [
+          "2 boneless chicken breasts",
+          "2 tablespoons olive oil",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "4 cups mixed greens",
+          "1/2 cup cherry tomatoes, halved",
+          "1/2 cup cucumber, sliced",
+          "1/4 cup red onion, sliced",
+          "1/4 cup crumbled feta cheese",
+          "1/4 cup sliced almonds",
+          "1/4 cup balsamic vinaigrette"
+        ],
+        "method": [
+          "Preheat grill to medium-high heat.",
+          "In a small bowl, combine olive oil, garlic powder, salt, and black pepper. Brush mixture over chicken breasts.",
+          "Grill chicken for 6-8 minutes per side, or until cooked through.",
+          "In a large bowl, combine mixed greens, cherry tomatoes, cucumber, and red onion.",
+          "Slice chicken and add to the salad.",
+          "Top with crumbled feta cheese and sliced almonds.",
+          "Drizzle balsamic vinaigrette over the top and serve immediately."
+        ],
+        "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      }
+    ]
+    
   },
   {
     "id": 3,
@@ -28,9 +177,83 @@
     "yearsOfExperience": 5,
     "numberOfRecipes": 36,
     "description": "Claire's baking skills are legendary, and her pastries are always a hit at the local farmers' market.",
-    "recipeName": ["Red meat", "gril", "chicken chap" ],
-    "ingredients": ["cream cheese", "butter", "sugar", "vanilla extract", "flour", "blueberries"],
-    "methodOfCooking": "Mix the cream cheese, butter, sugar, and vanilla extract, then add the flour and blueberries. Bake in a square pan and cut into bars."
+    "recipeName": [
+      {
+        "name": "Fragment Salad",
+        "ingredients": [
+          "2 boneless chicken breasts",
+          "2 tablespoons olive oil",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "4 cups mixed greens",
+          "1/2 cup cherry tomatoes, halved",
+          "1/2 cup cucumber, sliced",
+          "1/4 cup red onion, sliced",
+          "1/4 cup crumbled feta cheese",
+          "1/4 cup sliced almonds",
+          "1/4 cup balsamic vinaigrette"
+        ],
+        "method": [
+          "Preheat grill to medium-high heat.",
+          "In a small bowl, combine olive oil, garlic powder, salt, and black pepper. Brush mixture over chicken breasts.",
+          "Grill chicken for 6-8 minutes per side, or until cooked through.",
+          "In a large bowl, combine mixed greens, cherry tomatoes, cucumber, and red onion.",
+          "Slice chicken and add to the salad.",
+          "Top with crumbled feta cheese and sliced almonds.",
+          "Drizzle balsamic vinaigrette over the top and serve immediately."
+        ],
+        "img": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      },
+      {
+        "name": "Astrom Vigar",
+        "ingredients": [
+          "1 pound spaghetti",
+          "6 slices bacon, diced",
+          "4 cloves garlic, minced",
+          "4 eggs",
+          "1 cup grated parmesan cheese",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "method": [
+          "Bring a large pot of salted water to a boil. Add spaghetti and cook until al dente, according to package instructions.",
+          "While spaghetti cooks, cook bacon in a large skillet over medium heat until crisp. Remove bacon from skillet and set aside.",
+          "Add garlic to skillet with bacon grease and cook until fragrant, about 1 minute."
+          
+        ],
+        "img": "https://plus.unsplash.com/premium_photo-1670895801792-62eef8f3bb3c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      },
+      {
+        "name": "Faluda",
+        "ingredients": [
+          "2 boneless chicken breasts",
+          "2 tablespoons olive oil",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "4 cups mixed greens",
+          "1/2 cup cherry tomatoes, halved",
+          "1/2 cup cucumber, sliced",
+          "1/4 cup red onion, sliced",
+          "1/4 cup crumbled feta cheese",
+          "1/4 cup sliced almonds",
+          "1/4 cup balsamic vinaigrette"
+        ],
+        "method": [
+          "Preheat grill to medium-high heat.",
+          "In a small bowl, combine olive oil, garlic powder, salt, and black pepper. Brush mixture over chicken breasts.",
+          "Grill chicken for 6-8 minutes per side, or until cooked through.",
+          "In a large bowl, combine mixed greens, cherry tomatoes, cucumber, and red onion.",
+          "Slice chicken and add to the salad.",
+          "Top with crumbled feta cheese and sliced almonds.",
+          "Drizzle balsamic vinaigrette over the top and serve immediately."
+        ],
+        "img": "https://images.unsplash.com/photo-1506459225024-1428097a7e18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      }
+    ]
+    
   },
   {
     "id": 4,
@@ -39,9 +262,83 @@
     "yearsOfExperience": 20,
     "numberOfRecipes": 112,
     "description": "David's family has been running a Chinese restaurant for generations, and he has inherited their secret recipes and techniques.",
-    "recipeName": ["hot dog", "shuhi", "burger" ],
-    "ingredients": ["chicken thighs", "cornstarch", "soy sauce", "rice vinegar", "sugar", "ginger", "garlic"],
-    "methodOfCooking": "Coat the chicken in cornstarch and fry until crispy. Mix soy sauce, rice vinegar, sugar, ginger, and garlic to make a sauce, then toss the chicken in the sauce."
+    "recipeName": [
+      {
+        "name": "Thai Food",
+        "ingredients": [
+          "2 boneless chicken breasts",
+          "2 tablespoons olive oil",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "4 cups mixed greens",
+          "1/2 cup cherry tomatoes, halved",
+          "1/2 cup cucumber, sliced",
+          "1/4 cup red onion, sliced",
+          "1/4 cup crumbled feta cheese",
+          "1/4 cup sliced almonds",
+          "1/4 cup balsamic vinaigrette"
+        ],
+        "method": [
+          "Preheat grill to medium-high heat.",
+          "In a small bowl, combine olive oil, garlic powder, salt, and black pepper. Brush mixture over chicken breasts.",
+          "Grill chicken for 6-8 minutes per side, or until cooked through.",
+          "In a large bowl, combine mixed greens, cherry tomatoes, cucumber, and red onion.",
+          "Slice chicken and add to the salad.",
+          "Top with crumbled feta cheese and sliced almonds.",
+          "Drizzle balsamic vinaigrette over the top and serve immediately."
+        ],
+        "img": "https://images.unsplash.com/photo-1630431341771-1ceb084d6607?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      },
+      {
+        "name": "Tatto Roud",
+        "ingredients": [
+          "1 pound spaghetti",
+          "6 slices bacon, diced",
+          "4 cloves garlic, minced",
+          "4 eggs",
+          "1 cup grated parmesan cheese",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "method": [
+          "Bring a large pot of salted water to a boil. Add spaghetti and cook until al dente, according to package instructions.",
+          "While spaghetti cooks, cook bacon in a large skillet over medium heat until crisp. Remove bacon from skillet and set aside.",
+          "Add garlic to skillet with bacon grease and cook until fragrant, about 1 minute."
+          
+        ],
+        "img": "https://images.unsplash.com/photo-1505976378723-9726b54e9bb9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      },
+      {
+        "name": "Green Ovious",
+        "ingredients": [
+          "2 boneless chicken breasts",
+          "2 tablespoons olive oil",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "4 cups mixed greens",
+          "1/2 cup cherry tomatoes, halved",
+          "1/2 cup cucumber, sliced",
+          "1/4 cup red onion, sliced",
+          "1/4 cup crumbled feta cheese",
+          "1/4 cup sliced almonds",
+          "1/4 cup balsamic vinaigrette"
+        ],
+        "method": [
+          "Preheat grill to medium-high heat.",
+          "In a small bowl, combine olive oil, garlic powder, salt, and black pepper. Brush mixture over chicken breasts.",
+          "Grill chicken for 6-8 minutes per side, or until cooked through.",
+          "In a large bowl, combine mixed greens, cherry tomatoes, cucumber, and red onion.",
+          "Slice chicken and add to the salad.",
+          "Top with crumbled feta cheese and sliced almonds.",
+          "Drizzle balsamic vinaigrette over the top and serve immediately."
+        ],
+        "img": "https://images.unsplash.com/photo-1540420773420-3366772f4999?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=384&q=80"
+      }
+    ]
+    
   },
   {
     "id": 5,
@@ -50,9 +347,83 @@
     "yearsOfExperience": 3,
     "numberOfRecipes": 24,
     "description": "Elena is a vegan chef who loves to experiment with plant-based ingredients.",
-    "recipeName": ["Smoked Brisket with Bourbon Glaze", "biskut banana", "burger" ],
-    "ingredients": ["cream cheese", "butter", "sugar", "vanilla extract", "flour", "blueberries"],
-    "methodOfCooking": "Mix the cream cheese, butter, sugar, and vanilla extract, then add the flour and blueberries. Bake in a square pan and cut into bars."
+    "recipeName": [
+      {
+        "name": "Red Jabar",
+        "ingredients": [
+          "2 boneless chicken breasts",
+          "2 tablespoons olive oil",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "4 cups mixed greens",
+          "1/2 cup cherry tomatoes, halved",
+          "1/2 cup cucumber, sliced",
+          "1/4 cup red onion, sliced",
+          "1/4 cup crumbled feta cheese",
+          "1/4 cup sliced almonds",
+          "1/4 cup balsamic vinaigrette"
+        ],
+        "method": [
+          "Preheat grill to medium-high heat.",
+          "In a small bowl, combine olive oil, garlic powder, salt, and black pepper. Brush mixture over chicken breasts.",
+          "Grill chicken for 6-8 minutes per side, or until cooked through.",
+          "In a large bowl, combine mixed greens, cherry tomatoes, cucumber, and red onion.",
+          "Slice chicken and add to the salad.",
+          "Top with crumbled feta cheese and sliced almonds.",
+          "Drizzle balsamic vinaigrette over the top and serve immediately."
+        ],
+        "img": "https://images.unsplash.com/photo-1543353071-c953d88f7033?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80"
+      },
+      {
+        "name": "Asronal Kindon",
+        "ingredients": [
+          "1 pound spaghetti",
+          "6 slices bacon, diced",
+          "4 cloves garlic, minced",
+          "4 eggs",
+          "1 cup grated parmesan cheese",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "method": [
+          "Bring a large pot of salted water to a boil. Add spaghetti and cook until al dente, according to package instructions.",
+          "While spaghetti cooks, cook bacon in a large skillet over medium heat until crisp. Remove bacon from skillet and set aside.",
+          "Add garlic to skillet with bacon grease and cook until fragrant, about 1 minute."
+          
+        ],
+        "img": "https://images.unsplash.com/photo-1547928578-bca3e9c5a0ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+      },
+      {
+        "name": "Supreme Jab",
+        "ingredients": [
+          "2 boneless chicken breasts",
+          "2 tablespoons olive oil",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "4 cups mixed greens",
+          "1/2 cup cherry tomatoes, halved",
+          "1/2 cup cucumber, sliced",
+          "1/4 cup red onion, sliced",
+          "1/4 cup crumbled feta cheese",
+          "1/4 cup sliced almonds",
+          "1/4 cup balsamic vinaigrette"
+        ],
+        "method": [
+          "Preheat grill to medium-high heat.",
+          "In a small bowl, combine olive oil, garlic powder, salt, and black pepper. Brush mixture over chicken breasts.",
+          "Grill chicken for 6-8 minutes per side, or until cooked through.",
+          "In a large bowl, combine mixed greens, cherry tomatoes, cucumber, and red onion.",
+          "Slice chicken and add to the salad.",
+          "Top with crumbled feta cheese and sliced almonds.",
+          "Drizzle balsamic vinaigrette over the top and serve immediately."
+        ],
+        "img": "https://images.unsplash.com/photo-1524859330668-c357331384f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80"
+      }
+    ]
+    
   },
 {
     "id": 6,
@@ -61,8 +432,82 @@
     "yearsOfExperience": 5,
     "numberOfRecipes": 36,
     "description": "Claire's baking skills are legendary, and her pastries are always a hit at the local farmers' market.",
-    "recipeName": ["Smoked Brisket with Bourbon Glaze", "biskut banana", "burger" ],
-    "ingredients": ["cream cheese", "butter", "sugar", "vanilla extract", "flour", "blueberries"],
-    "methodOfCooking": "Mix the cream cheese, butter, sugar, and vanilla extract, then add the flour and blueberries. Bake in a square pan and cut into bars."
+    "recipeName": [
+      {
+        "name": "Homontino",
+        "ingredients": [
+          "2 boneless chicken breasts",
+          "2 tablespoons olive oil",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "4 cups mixed greens",
+          "1/2 cup cherry tomatoes, halved",
+          "1/2 cup cucumber, sliced",
+          "1/4 cup red onion, sliced",
+          "1/4 cup crumbled feta cheese",
+          "1/4 cup sliced almonds",
+          "1/4 cup balsamic vinaigrette"
+        ],
+        "method": [
+          "Preheat grill to medium-high heat.",
+          "In a small bowl, combine olive oil, garlic powder, salt, and black pepper. Brush mixture over chicken breasts.",
+          "Grill chicken for 6-8 minutes per side, or until cooked through.",
+          "In a large bowl, combine mixed greens, cherry tomatoes, cucumber, and red onion.",
+          "Slice chicken and add to the salad.",
+          "Top with crumbled feta cheese and sliced almonds.",
+          "Drizzle balsamic vinaigrette over the top and serve immediately."
+        ],
+        "img": "https://images.unsplash.com/photo-1630445396366-8dea03c85ead?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Spaghetti",
+        "ingredients": [
+          "1 pound spaghetti",
+          "6 slices bacon, diced",
+          "4 cloves garlic, minced",
+          "4 eggs",
+          "1 cup grated parmesan cheese",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "method": [
+          "Bring a large pot of salted water to a boil. Add spaghetti and cook until al dente, according to package instructions.",
+          "While spaghetti cooks, cook bacon in a large skillet over medium heat until crisp. Remove bacon from skillet and set aside.",
+          "Add garlic to skillet with bacon grease and cook until fragrant, about 1 minute."
+        
+        ],
+        "img": "https://images.unsplash.com/photo-1526318896980-cf78c088247c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      },
+      {
+        "name": "Grilar",
+        "ingredients": [
+          "2 boneless chicken breasts",
+          "2 tablespoons olive oil",
+          "1 teaspoon garlic powder",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "4 cups mixed greens",
+          "1/2 cup cherry tomatoes, halved",
+          "1/2 cup cucumber, sliced",
+          "1/4 cup red onion, sliced",
+          "1/4 cup crumbled feta cheese",
+          "1/4 cup sliced almonds",
+          "1/4 cup balsamic vinaigrette"
+        ],
+        "method": [
+          "Preheat grill to medium-high heat.",
+          "In a small bowl, combine olive oil, garlic powder, salt, and black pepper. Brush mixture over chicken breasts.",
+          "Grill chicken for 6-8 minutes per side, or until cooked through.",
+          "In a large bowl, combine mixed greens, cherry tomatoes, cucumber, and red onion.",
+          "Slice chicken and add to the salad.",
+          "Top with crumbled feta cheese and sliced almonds.",
+          "Drizzle balsamic vinaigrette over the top and serve immediately."
+        ],
+        "img": "https://images.unsplash.com/photo-1588079921249-938286583362?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      }
+    ]
+    
   }
 ]	
